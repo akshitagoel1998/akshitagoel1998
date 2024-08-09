@@ -1,6 +1,6 @@
-<img alt="Coding a" src="https://arizent.brightspotcdn.com/dims4/default/b6d3ed3/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https:%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F82%2Ff7%2F4db77e6a4e7d85cb3c363ae70723%2Fdata-analytics-22.png">
+<img alt="Coding a" src="https://thumbs.dreamstime.com/z/data-analysis-business-intelligence-analytics-internet-technology-concept-138366412.jpg">
 <h1 align="center">Hi 👋, I'm Akshita Goel</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate DATA ANALYST </h3>
 <img align="right" alt="Coding" width="400" src="https://clipartmag.com/images/analysis-clipart-8.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitagoel1998&label=Profile%20views&color=0e75b6&style=flat" alt="akshitagoel1998" /> </p>
